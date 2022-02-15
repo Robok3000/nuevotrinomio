@@ -1,0 +1,31 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: ¿qué s⁕m⁕s?
+    entries:
+      - title: una ₳gencia digital lista para ayudarte🚀
+  - title: ¿qué hacemos?
+    entries:
+    - title: nos gust₳ combinar nuestra experiencia en el 🧑‍💻 manej⁕ de las redes sociales con pr⁕gramas de ₳nálisis de datos 📉 para ayudar a las marcas a tomar decisiones innovador₳s.
+
+  - title: nuestros planes
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: planes.html
+
+  - title: nuestras redes sociales
+    entries:
+      - title: ¡Síguenos!
+        entries:
+          - title: Instagram
+            url: about
+          - title: Linkedin
+            url: about
+  - title: Contáctanos📞
+    entries:
+      - title: cata@trinomiodigital.com  matias@trinomiodigital.com pedro@trinomiodigital.com
+      - title: +56 9 44006436
+  - title: descarga nuestra presentación: [Trinomio Digital 2022](https://bit.ly/3gL8SqW "La mejor agencia digital del mundo")
