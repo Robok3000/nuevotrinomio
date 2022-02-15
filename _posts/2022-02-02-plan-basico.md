@@ -21,3 +21,5 @@ por **$300.000** 👍👍👍
 
 - 📞 +56 9 44006436
 - 🤓 pedro@trinomiodigital.com
+
+📲 descarga nuestra presentación: [Trinomio Digital 2022](https://bit.ly/3gL8SqW "La mejor agencia digital del mundo")
