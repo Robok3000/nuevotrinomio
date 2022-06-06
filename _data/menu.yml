@@ -21,9 +21,9 @@ entries:
       - title: ¡Síguenos!
         entries:
           - title: Instagram
-            url: about
+            url: https://www.instagram.com/trinomio.digital/
           - title: Linkedin
-            url: about
+            url: https://www.linkedin.com/company/trinomiodigital
   - title: Contáctanos📞
     entries:
       - title: cata@trinomiodigital.com  matias@trinomiodigital.com pedro@trinomiodigital.com
